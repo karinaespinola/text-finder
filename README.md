@@ -1,1 +1,1 @@
-text-finder
+This is a small script to extract the text inside brackets from a text file. This script is in PHP and uses a regular expression to extract the text. You will find the result in the browser and also in the browser's console. You can change the sample text to anything you'd like. I hope you find it useful!
